@@ -1,2 +1,2 @@
-# prouction-Expense-app-mern
+# BudgetBuddy-app
 expense mern stack app
